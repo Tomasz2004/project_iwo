@@ -70,6 +70,19 @@ Problem związany z .... dotyczący... co powoduje ... można rozwiązać ...
 ## 3.3 Cechy funkcjonalne
 
 
+F06: System powinien umożliwiać rejestrację nowego konta.
+| Typ: _funkcjonalne_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: cojarobietu9 |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Kluczowe || Wydanie: 1.0 |
+| Zaimplementowanie funkcjonalności umożliwiającej użytkownikowi rejestrację konta na platformie. Tworzone konto wymaga od użytkownika podania swojego adresu e-mail, dostępnej i unikatowej nazwy konta, oraz dwukrotnego podania hasła. System powinien posiadać odpowiednie wymagania dotyczące hasła (np. długość, rodzaj znaków) i informować, kiedy użytkownik podał odpowiedni przykład. Rejestracja konta możliwa jest po potwierdzeniu tożsamości za pomocą podanego adresu e-mail.|
+
+F07: System powinien umożliwiać logowanie metodą dwuetapową.
+| Typ: _funkcjonalne_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: cojarobietu9 |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Użyteczne || Wydanie: 1.0 |
+| Zaimplementowanie funkcjonalności umożliwiającej użytkownikowi dwuetapowe potwierdzenie tożsamości, pierwszy raz za pomocą hasła i drugi raz np. za pomocą kodu QR pochodzącego od dezygnowanej aaplikacji. Użytkownik powinien mieć możliwość włączenia tej opcji wedle życzenia, oraz wyłączenia jej przy pomocy np. adresu mailowego.|
+
+
 
 
 
@@ -81,7 +94,11 @@ Problem związany z .... dotyczący... co powoduje ... można rozwiązać ...
 
 ## 3.4 Cechy jakościowe
 
-
+J02: System powinien wyświetlać dezygnowane ekrany oczekiwania w momentach ładowania się strony.
+| Typ: _jakościowe_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: cojarobietu9 |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Istotne || Wydanie: 1.0 |
+| Strona i aplikacja powinny posiadać ekrany oczekiwania w sytuacjach ładowania i przesyłania zasobów, słabszego połączenia z internetem etc. Użytkownik powinien być poinformowany o statusie ładowania (np pasek postępu), oraz ew. o procesie obecnie zachodzącym np. "Zapisywanie Twojej postaci - nie wychodź z aplikacji" |
 
 
 
