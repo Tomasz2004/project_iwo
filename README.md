@@ -155,6 +155,19 @@ F15: System powinien umożliwiać przesyłanie komunikatów do wybranych grup u�
 | Priorytet i trudność: Przydatne || Wydanie: 1.0 |
 | Zaimplementowanie funkcjonalności pozwalającej organizatorowi na kierowanie powiadomień i informacji fabularnych do konkretnych podzbiorów uczestników. System powinien wspierać segmentację odbiorców na podstawie przypisanych im ról, przynależności do frakcji lub aktualnej lokalizacji w świecie gry. |
 
+F16: System powinien umożliwiać odblokowywanie materiałów multimedialnych przez użytkowników. 
+| Typ: _funkcjonalne_ | Wersja: 1.0 (03.03.2026) | Odpowiedzialny: Cezary Rybiński |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Przydatne || Wydanie: 1.0 |
+| System powinien umożliwiać odblokowywanie materiałów multimedialnych (nagrania audio, tajne dokumenty PDF, fragmenty wideo) po wejściu w interakcję z obiektem w świecie gry. Materiały te są trwale zapisywane w "dzienniku" postaci, umożliwiając ich późniejszą analizę. |
+
+F17: System powinien umożliwiać zgłoszenie problemu w trakcie rozgrywki.
+| Typ: _funkcjonalne_ | Wersja: 1.0 (03.03.2026) | Odpowiedzialny: Cezary Rybiński |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Kluczowe || Wydanie: 1.0 |
+| System powinien umożliwiać zgłoszenie problemu w trakcie rozgrywki poprzez wybranie opcji w menu i opisanie problemu. Zgłoszenie nie przerywa automatycznie rozgrywki a powiadamia jedynie organizatora o konieczności interwencji. |
+---
+
 F16: System powinien umożliwiać wystawianie oceny użytkownikom
 | Typ: _funkcjonalne_ | Wersja 1.0 (02.03.2025) | Odpowiedzialny: lzajka |
 | :--- | :--- | :--- |
@@ -238,6 +251,12 @@ J06: System powinien minimalizować zużycie baterii urządzenia mobilnego.
 | :--- | :--- | :--- |
 | Priorytet i trudność: Kluczowe || Wydanie: 1.0 |
 | Aplikacja mobilna musi być zoptymalizowana pod kątem niskiego zużycia energii, biorąc pod uwagę wielogodzinny czas trwania wydarzeń LARP. Mechanizmy sprawdzania lokalizacji, synchronizacji danych w tle oraz jasność interfejsu (np. wymuszony lub domyślny tryb ciemny) powinny być zaprojektowane tak, aby aplikacja minimalizowała drenowanie akumulatora smartfona podczas długotrwałego działania w trybie gotowości. |
+
+J07: Interfejs aplikacji powinien posiadać tryb 'Dark-Mode'.
+| Typ: _jakościowe_ | Wersja: 1.0 (03.03.2026) | Odpowiedzialny: Cezary Rybiński |
+| :--- | :--- | :--- |
+| Priorytet i trudność: Istotne || Wydanie: 1.0 |
+| Interfejs aplikacji mobilnej musi być dostosowany do pracy w warunkach niskiego oświetlenia. |
 
 ## 3.5 Słownik
 
