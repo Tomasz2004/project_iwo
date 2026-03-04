@@ -176,19 +176,19 @@ F17: System powinien umożliwiać zgłoszenie problemu w trakcie rozgrywki.
 | System powinien umożliwiać zgłoszenie problemu w trakcie rozgrywki poprzez wybranie opcji w menu i opisanie problemu. Zgłoszenie nie przerywa automatycznie rozgrywki a powiadamia jedynie organizatora o konieczności interwencji. |
 ---
 
-F16: System powinien umożliwiać wystawianie oceny użytkownikom
+F18: System powinien umożliwiać wystawianie oceny użytkownikom
 | Typ: _funkcjonalne_ | Wersja 1.0 (02.03.2025) | Odpowiedzialny: lzajka |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Istotne || Wydanie: 1.0 |
 | Użytkownik powinien być w stanie wystawić opinię na temat innego użytkownika. Użytkownik nie może wystawić wielu opinii dla jednego użytkownika. System powinien analizować zachowanie zgłaszających w celu oflagowania podejrzanych zgłoszeń. |
 
-F18: System powinien umożliwaić wyświetlanie oceny użytkownika
+F19: System powinien umożliwaić wyświetlanie oceny użytkownika
 | Typ: _funkcjonalne_ | Wersja 1.0 (02.03.2025) | Odpowiedzialny: lzajka |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Istotne || Wydanie: 1.0 |
 | System ma zapewniać organizatorom wyłączny dostęp do ocen użytkowników w celu sprawnej selekcji uczestników wydarzenia. Interfejs musi prezentować zarówno średnią, jak i szczegółową listę wszystkich wystawionych opinii wraz z ich treścią. W przypadku wykrycia podejrzanych wpisów mechanizm powinien umożliwiać nałożenie ostrzeżenia, obniżenie ich wpływu na wynik ogólny lub usunięcie. |
 
-F19: System powinien umożliwiać zgłaszanie nieprzyzwoitych zachowań użytkowników
+F20: System powinien umożliwiać zgłaszanie nieprzyzwoitych zachowań użytkowników
 | Typ: _funkcjonalne_ | Wersja 1.0 (02.03.2025) | Odpowiedzialny: lzajka |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Istotne || Wydanie: 1.0 |
@@ -196,31 +196,31 @@ F19: System powinien umożliwiać zgłaszanie nieprzyzwoitych zachowań użytkow
 W przypadku złamania reguły wydarzenia zgłaszający wybiera — użytkownika, wydarzenie, złamaną regułę, dodaję opis incydentu oraz ewentualnie załączniki. Zgłoszenie trafia do organizatorów wydarzenia.
 W przypadku złamania reguły serwisu zgłaszający wybiera — użytkownika, wydarzenie (opcjonalnie), złamaną regułę serwisu, dodaje opis incydentu oraz ewentualne załączniki. Zgłoszenie trafia do administracji serwisu. |
 
-F20: System powinien umożliwiać wystawienie oceny i opinii o wydarzeniu LARP.
+F21: System powinien umożliwiać wystawienie oceny i opinii o wydarzeniu LARP.
 | Typ: _funkcjonalne_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: FilobokHlib |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Przydatne || Wydanie: 1.0 |
 | Po zakończeniu wydarzenia użytkownik powinien mieć możliwość wystawienia oceny (np. w skali 1–5 gwiazdek) oraz dodania krótkiej opinii tekstowej. |
 
-F21: System powinien umożliwiać wyświetlanie ocen i opinii wybranego wydarzenia LARP.
+F22: System powinien umożliwiać wyświetlanie ocen i opinii wybranego wydarzenia LARP.
 | Typ: _funkcjonalne_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: FilobokHlib |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Przydatne || Wydanie: 1.0 |
 | Podczas wyszukiwania wydarzeń użytkownik powinien mieć możliwość zobaczenia średniej oceny danego wydarzenia (lub organizatora — na podstawie ocen z jego poprzednich wydarzeń) oraz zapoznania się z opiniami w opisie tego wydarzenia. |
 
-F22: System powinien informować użytkowników o odwołaniu gry.
+F23: System powinien informować użytkowników o odwołaniu gry.
 | Typ: _funkcjonalne_ | Wersja: 1.0 (02.03.2026) | Odpowiedzialny: FilobokHlib |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Istotne || Wydanie: 1.0 |
 | W przypadku odwołania wydarzenia z przyczyn technicznych lub z powodu niewystarczającej liczby uczestników (nieosiągnięcia minimalnego limitu), system powinien wysłać powiadomienie w aplikacji (w zakładce „Wiadomości”) oraz kopię powiadomienia na adres e-mail użytkownika. |
 
-F23: System powinien umożliwiać wymianę wirtualnych zasobów pomiędzy graczami.
+F24: System powinien umożliwiać wymianę wirtualnych zasobów pomiędzy graczami.
 | Typ: _funkcjonalne_ | Wersja: 1.0 (03.03.2026) | Odpowiedzialny: rufiix |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Istotne || Wydanie: 1.0 |
 | Zaimplementowanie modułu handlu pozwalającego graczom na bezpieczną wymianę posiadanych przedmiotów i wirtualnej waluty za pomocą aplikacji mobilnej. Proces wymiany powinien wymagać potwierdzenia transakcji przez obie strony (np. poprzez zeskanowanie jednorazowego kodu QR wygenerowanego na ekranie urządzenia jednego z graczy). System musi na bieżąco aktualizować stany ekwipunków zaangażowanych postaci i zapisywać historię transakcji w logach. |
 
-F24: System powinien udostępniać interaktywną mapę terenu gry.
+F25: System powinien udostępniać interaktywną mapę terenu gry.
 | Typ: _funkcjonalne_ | Wersja: 1.0 (03.03.2026) | Odpowiedzialny: rufiix |
 | :--- | :--- | :--- |
 | Priorytet i trudność: Przydatne || Wydanie: 1.0 |
