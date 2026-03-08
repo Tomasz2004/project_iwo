@@ -8,8 +8,8 @@
 **Wersja:** 1.0  
 **Data modyfikacji:** 26.02.2026
 
-**Abstrakt:**  
-Dokument zawiera specyfikację wymagań dla systemu wpierającego organizację komnatowych wydarzeń LARP składającą się z wizji systemu, wymagań użytkownika oraz wymagań oprogramowania dla pierwszych iteracji projektu.
+**Motto:**  
+Platforma umożliwiająca organizowanie, zarządzanie i uczestnictwo w wydarzeniach LARP w jednym miejscu.
 
 ---
 
@@ -61,13 +61,37 @@ Problem związany z .... dotyczący... co powoduje ... można rozwiązać ...
 
 **Diagram:** Interesariusze
 
-**Właściciel sieci ASO**
+**Gracz**
 
 - Typ: «interesariusz»
-- Wersja: 1.0 (15.02.2023)
-- Odpowiedzialny: smial
-- Priorytet i trudność:
+- Wersja: 1.0 (08.03.2026)
+- Odpowiedzialny: TBD
+- Priorytet i trudność: Wysoki
 - Wydanie: 1.0
+
+Gracz jest użytkownikiem systemu biorącym udział w wydarzeniach LARP. Jego głównym celem jest znalezienie interesujących wydarzeń, zapisanie się na nie oraz uczestnictwo w rozgrywce. Gracz korzysta z systemu do zarządzania swoim profilem, wybierania postaci, komunikacji z innymi uczestnikami oraz śledzenia swoich osiągnięć i historii wydarzeń.
+
+
+**Administrator systemu**
+
+- Typ: «interesariusz»
+- Wersja: 1.0 (08.03.2026)
+- Odpowiedzialny: TBD
+- Priorytet i trudność: Średni
+- Wydanie: 1.0
+
+Administrator systemu odpowiada za utrzymanie poprawnego działania platformy. Jego zadaniem jest zarządzanie użytkownikami, moderowanie zgłoszeń problemów, kontrolowanie bezpieczeństwa systemu oraz weryfikowanie wydarzeń tworzonych przez użytkowników. Administrator posiada dostęp do narzędzi umożliwiających monitorowanie działania systemu.
+
+
+**Organizator wydarzeń**
+
+- Typ: «interesariusz»
+- Wersja: 1.0 (08.03.2026)
+- Odpowiedzialny: TBD
+- Priorytet i trudność: Wysoki
+- Wydanie: 1.0
+
+Organizator wydarzeń odpowiada za przygotowanie i przeprowadzenie wydarzeń LARP. Korzysta z systemu w celu tworzenia nowych wydarzeń, zarządzania zapisami uczestników, planowania scenariusza gry oraz komunikacji z graczami przed i w trakcie wydarzenia. System powinien umożliwiać organizatorowi sprawne zarządzanie wszystkimi elementami wydarzenia.
 
 ---
 
